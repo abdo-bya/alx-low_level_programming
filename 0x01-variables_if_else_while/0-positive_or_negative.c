@@ -27,5 +27,5 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	return (0);
+	return (0);// Returning 0 indicates successful program execution
 }
