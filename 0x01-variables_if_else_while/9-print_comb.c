@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description : 'print alphabets lowercase and uppercase'
- * Return : Always 0
+ *
+ * Description: Get the last digit of a number
+ *
+ * Return: Always 0 (indicating successful program execution)
  */
 int main(void)
 {
