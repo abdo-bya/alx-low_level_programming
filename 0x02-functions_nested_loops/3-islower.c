@@ -4,8 +4,8 @@
  * lowercase character. Another cases, shows 0
  *
  *@c: the character in ASCII code
-
- * Return : 1 for lowecase character. 0 for the rest
+ *
+ * Return: 1 for lowecase character. 0 for the rest
  */
 int _islower(int c)
 {
