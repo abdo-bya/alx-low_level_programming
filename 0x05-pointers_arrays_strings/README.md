@@ -1,1 +1,1 @@
-0x05. C - Pointers, arrays and strings
+Don't hate the hacker, hate the code
